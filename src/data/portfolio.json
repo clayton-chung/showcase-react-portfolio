@@ -1,0 +1,16 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/port-claw.jpg",
+            "title": "Arduino Claw",
+            "description": "Arduino (C++ variant)",
+            "url": "https://github.com/clayton-chung/arduino-claw"
+        },
+        {
+            "cover": "/portfolio/2/port-website.png",
+            "title": "Personal Website",
+            "description": "ReactJS, Javascript, CSS (SCSS), HTML",
+            "url": "https://github.com/clayton-chung/showcase-react-portfolio"
+        }
+    ]
+}
